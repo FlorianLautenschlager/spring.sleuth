@@ -1,0 +1,7 @@
+spring:
+  sleuth:
+    enabled: true
+  zipkin:
+    enabled: true
+  application:
+    name: user-service
