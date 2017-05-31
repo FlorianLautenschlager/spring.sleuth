@@ -1,4 +1,4 @@
-#Spring.Sleuth
+# Spring.Sleuth
 Codebase to reproduce:
 
 ## Issue: 600
